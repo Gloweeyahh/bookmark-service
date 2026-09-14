@@ -8,7 +8,7 @@ field ten times too long, or the exact same request twice.
 Plain Node.js, zero dependencies — no Express, no database, nothing to
 `npm install`. See "Why no framework" below for the reasoning.
 
-**Live URL:** _add your deployed Render URL here before submitting_
+**Live URL:** https://bookmark-service-zg64.onrender.com/
 
 ## Endpoints
 
